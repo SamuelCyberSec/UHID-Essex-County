@@ -1,0 +1,17 @@
+numpy
+pandas
+geopandas
+rasterio
+xarray
+matplotlib
+plotly
+dash
+dash-bootstrap-components
+scikit-learn
+earthengine-api
+pyproj
+shapely
+folium
+contextily
+seaborn
+requests
