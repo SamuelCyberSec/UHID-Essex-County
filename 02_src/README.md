@@ -1,3 +1,8 @@
-02_src
+# 02_src
 
-Python scripts used for preprocessing, thermal modeling, dashboard development, and analytical workflows.
+Python scripts implementing modular functions for dataset preparation, thermal processing, modeling, and dashboard development.
+
+- data_processing.py  
+- thermal_analysis.py  
+- intervention_modeling.py  
+- dashboard_app.py
