@@ -35,3 +35,6 @@ This repository hosts the full workflow, analysis modules, and documentation for
 - Siva Prakash Reddy Rachapalli
 - Sai Charan Kumar Reddy Boggula
 
+Institution: Montclair State University  
+Program: MSc CyberSecurity  
+Date: November 2025
