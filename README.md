@@ -29,6 +29,9 @@ This repository hosts the full workflow, analysis modules, and documentation for
 > Raw data is stored externally in Google Drive due to size constraints.
 
 ---
-
-## Repository Structure
+## Team Members
+- Samuel Quansah - Project Lead
+- Rohith Reddy Gade
+- Siva Prakash Reddy Rachapalli
+- Sai Charan Kumar Reddy Boggula
 
